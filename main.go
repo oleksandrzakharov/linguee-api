@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/oleksandrzakharov/linguee-api/cache"
-	"github.com/oleksandrzakharov/linguee-api/translator"
+	"github.com/imankulov/linguee-api/cache"
+	"github.com/imankulov/linguee-api/translator"
 )
 
 var c cache.Cache
