@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/oleksandrzakharov/linguee-api/cache"
+	"github.com/imankulov/linguee-api/cache"
 )
 
 // User-Agent string, where %s is replaced with the service name
